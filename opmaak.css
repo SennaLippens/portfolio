@@ -1,0 +1,101 @@
+ #homebody{
+  background-image:url("bg.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: black;
+  background-repeat: repeat;
+  text-align: center;
+}
+
+#badgesbody{
+  background-image:url("bg.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: black;
+  background-repeat: repeat;
+  text-align: center;
+}
+
+#projectbody{
+  background-image:url("bg.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: black;
+  background-repeat: repeat;
+  text-align: center;
+}
+
+#contactbody{
+  background-image:url("bg.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: black;
+  background-repeat: repeat;
+  text-align: center;
+}
+
+h2{
+  font-size: 35px;
+}
+
+
+nav ul {
+    list-style-type: none;
+    align-content: center;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #a3c2c2;
+    text-align: center;
+    align-self: center;
+}
+
+nav li {
+    float: left;
+    margin: 3px 3px;
+    text-align: center;
+    align-items: center;
+    display: inline-block;
+    nav.align-items: center;
+}
+
+nav li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    transition: 0.3s;
+}
+
+nav li a:hover {
+    background-color: white;
+    text-align: center;
+}
+
+nav{
+  position: sticky;
+  top: 0;
+  text-align: center;
+  margin-left: 38%;
+  margin-right: 38%;
+}
+
+.footer{
+  position: fixed;
+  bottom: 0px;
+  color:black;
+  background-color: #a3c2c2;
+  width: 65%;
+  margin: auto;
+  text-align: center;
+  margin-left: 0%;
+  margin-right: 38%;
+  align-items: center;
+}
+
+.wrapper {
+  margin: 0 auto 0 auto;
+  width: 960px;
+}
